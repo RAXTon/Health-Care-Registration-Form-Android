@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <ImageView
+        android:id="@+id/imageViewItemIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewItemIcon"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/imageViewItemIcon"
+        android:text="FirstName" />
+    
+    <TextView
+        android:id="@+id/textViewlastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewName"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewName"
+        android:text="LastName" />
+
+     <TextView
+        android:id="@+id/textViewEmailId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewlastName"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewlastName"
+        android:text="UserName" />
+    
+     <TextView
+        android:id="@+id/textViewBlood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewEmailId"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewEmailId"
+        android:text="BloodGroup" />
+     <TextView
+        android:id="@+id/textViewPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewBlood"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewBlood"
+        android:text="Password" />
+     
+
+     <TextView
+        android:id="@+id/textViewphoneNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewPassword"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewPassword"
+        android:text="PhoneNo" />
+    
+    
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@android:color/darker_gray"
+        android:layout_height="1dp"
+        android:layout_below="@+id/textViewphoneNo"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true" />
+    
+    
+
+</LinearLayout>
+<!-- From: file:/C:/Users/hp-pc/Downloads/PROJECT%20RAX/ANDRORAXAPP-clones/SalonipracticeDesign/app/src/main/res/layout/row_list_item.xml -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+  
+    <item android:drawable="@drawable/banner" android:duration="1000" />
+    <item android:drawable="@drawable/bann3" android:duration="1000" />
+     <item android:drawable="@drawable/bann4" android:duration="1000" />
+    <item android:drawable="@drawable/bann5" android:duration="1000" />
+     <item android:drawable="@drawable/bann6" android:duration="1000" />
+ 
+  
+
+</animation-list>
+<!-- From: file:/C:/Users/hp-pc/Downloads/PROJECT%20RAX/ANDRORAXAPP-clones/SalonipracticeDesign/app/src/main/res/drawable-hdpi/animationdemo1.xml -->

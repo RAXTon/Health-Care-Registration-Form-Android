@@ -1,0 +1,4 @@
+C:\Users\hp-pc\Downloads\PROJECT RAX\ANDRORAXAPP-clones\SalonipracticeDesign\app\build\intermediates\classes\debug
+C:\Users\hp-pc\Downloads\PROJECT RAX\ANDRORAXAPP-clones\SalonipracticeDesign\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-81f8eee66b7d3e4a712932ea99977135d0a2b9b4.jar
+C:\Users\hp-pc\Downloads\PROJECT RAX\ANDRORAXAPP-clones\SalonipracticeDesign\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-38cc842348019527339c5ddbbbf37017d63112e7.jar
+C:\Users\hp-pc\Downloads\PROJECT RAX\ANDRORAXAPP-clones\SalonipracticeDesign\app\build\intermediates\pre-dexed\debug\classes-dc8527deeafefc4d40af06f40f8c75fac1063eb6.jar
